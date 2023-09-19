@@ -1,4 +1,4 @@
-# Docker Project Ozone 2
+# Docker Project Ozone 3
 
 This repository allows you to run a Project Ozone 2 Minecraft server using Docker.
 
